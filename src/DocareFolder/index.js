@@ -1,0 +1,12 @@
+export { default as Navbar} from './Navbar'
+export { default as Hero} from './Hero'
+
+export { default as Records} from './Records'
+export { default as About} from './About'
+export { default as Offers} from './Offers'
+export { default as AppStore} from './AppStore'
+export { default as Features} from './Features'
+export { default as Teams} from './Teams'
+export { default as Testimonials} from './Testimonials'
+export { default as Questions} from './Questions'
+export { default as Footer} from './Footer'
