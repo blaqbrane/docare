@@ -70,7 +70,7 @@ const Offers = () => {
               <div className="w-12 h-12 mt-2 rounded-full text-blue-600 bg-slate-200 items-center justify-center flex">
                 {<item.icons />}
               </div>
-              <h1 className="text-lg text-slate-300 mt-2">24 Hour Pharmacy</h1>
+              <h1 className="text-lg text-black mt-2">24 Hour Pharmacy</h1>
               <p className="mt-2 text-[gray] text-sm">
                 Our round the clock licensed p0harmacist are readily available
                 to provide you with pharmaceuticalo care.
