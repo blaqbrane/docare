@@ -65,11 +65,11 @@ const AppStore = () => {
         <div className='flex items-center gap-x-3 py-3 justify-center md:justify-start'>
         <button className='flex items-center gap-x-2 bg-blue-600 px-6 py-2 rounded-md text-white'>
           <AiFillAndroid size={26}/>
-          <h3 className='text-sm'>Available on <br/> <span>Google Store</span></h3>
+          <h3 className='text-[10px] md:text-sm'>Available on <br/> <span>Google Store</span></h3>
         </button>
         <button className='flex items-center gap-x-2 bg-blue-600 px-6 py-2 rounded-md text-white'>
           <AiFillApple size={26}/>
-          <h3 className='text-sm'>Available on <br/> <span>Google Store</span></h3>
+          <h3 className='text-[10px] md:text-sm'>Available on <br/> <span>Google Store</span></h3>
         </button>
         
         </div>
